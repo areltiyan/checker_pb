@@ -2,6 +2,6 @@
 Auto Checker VALID PB Account
 
 # Installation
-git clone
-npm install
-node index
+1. git clone
+2. npm install
+3. node index
