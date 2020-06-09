@@ -1,0 +1,27 @@
+{
+  "name": "pointblank-checker",
+  "version": "1.0.0",
+  "description": "Auto Cek ",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areltiyan/checker_pb.git"
+  },
+  "author": "AREL TIYAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/areltiyan/checker_pb/issues"
+  },
+  "homepage": "https://github.com/areltiyan/checker_pb#readme"
+}
