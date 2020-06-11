@@ -232,7 +232,7 @@ function sleep(ms)
 }
 
 (async() => {
-    console.log(chalk.bgRed('CHECKER POINTBLANK\nCREATED BY ARL\nSGB TEAM'))
+    console.log(chalk.bgRed('CHECKER POINTBLANK\n\nSGB TEAM'))
     const path = readline.question('Path txt (akun.txt) : ')
     const pemisah = readline.question('Pemisahnya pake apa? : ')
     fs.readFile(path, {encoding: 'utf-8'}, async function(err,data){
