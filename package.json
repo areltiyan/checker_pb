@@ -7,7 +7,7 @@
     "chalk": "^4.1.0",
     "cheerio": "^1.0.0-rc.3",
     "fs": "^0.0.1-security",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "readline-sync": "^1.4.10",
     "request": "^2.88.2"
   },
